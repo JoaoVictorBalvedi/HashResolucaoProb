@@ -124,7 +124,7 @@ Figura 5 — Tempo de busca para hash duplo, n=1000000.
 
 6.3 Colisões
 
-![img.png](../img.png)
+![img6.png](../img6.png)
 Figura 6 — Número de colisões por função hash, sondagem linear, n=1000000.
 
 6.4 Top-3 Listas Encadeadas
@@ -157,7 +157,7 @@ Tabela 2 — Estatísticas de gaps para encadeamento e função mod.
 
 Figura 7 — Consumo de memória durante inserção para encadeamento.
 
-![img.png](img.png)
+![img_7.png](../img_7.png)
 
 💬 7. Discussão
 
