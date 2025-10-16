@@ -101,26 +101,26 @@ results/summary/*.png (gráficos)
 
 Figura 1 — Tempo de inserção para encadeamento separado, n=100000.
 
-![img_1.png](img_1.png)
+![img_1.png](../img_1.png)
 
 Figura 2 — Tempo de inserção para sondagem linear, n=1000000.
 
-![img_2.png](img_2.png)
+![img_2.png](../img_2.png)
 
 Figura 3 — Tempo de inserção para hash duplo, n=1000000.
 
-![img_3.png](img_3.png)
+![img_3.png](../img_3.png)
 
 6.2 Tempo de Busca
 
 
 Figura 4 — Tempo de busca para encadeamento, n=1000000.
 
-![img_4.png](img_4.png)
+![img_4.png](../img_4.png)
 
 Figura 5 — Tempo de busca para hash duplo, n=1000000.
 
-![img_5.png](img_5.png)
+![img_5.png](../img_5.png)
 
 6.3 Colisões
 
