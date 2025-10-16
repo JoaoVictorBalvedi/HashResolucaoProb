@@ -124,7 +124,7 @@ Figura 5 — Tempo de busca para hash duplo, n=1000000.
 
 6.3 Colisões
 
-
+![img.png](../img.png)
 Figura 6 — Número de colisões por função hash, sondagem linear, n=1000000.
 
 6.4 Top-3 Listas Encadeadas
