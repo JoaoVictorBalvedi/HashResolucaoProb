@@ -101,7 +101,7 @@ results/summary/*.png (gráficos)
 
 Figura 1 — Tempo de inserção para encadeamento separado, n=100000.
 
-![img_1.png](../img_1.png)
+![img.png](../img.png)
 
 Figura 2 — Tempo de inserção para sondagem linear, n=1000000.
 
