@@ -99,26 +99,26 @@ results/summary/*.png (gráficos)
 📈 6. Resultados
 6.1 Tempo de Inserção
 
-
+![img.png](img.png)
 Figura 1 — Tempo de inserção para encadeamento separado, n=100000.
 
-
+![img.png](img2.png)
 Figura 2 — Tempo de inserção para sondagem linear, n=1000000.
 
-
+![img.png](img3.png)
 Figura 3 — Tempo de inserção para hash duplo, n=1000000.
 
 6.2 Tempo de Busca
 
-
+![img.png](img4.png)
 Figura 4 — Tempo de busca para encadeamento, n=1000000.
 
-
+![img.png](img5.png)
 Figura 5 — Tempo de busca para hash duplo, n=1000000.
 
 6.3 Colisões
 
-
+![img.png](img6.png)
 Figura 6 — Número de colisões por função hash, sondagem linear, n=1000000.
 
 6.4 Top-3 Listas Encadeadas
@@ -149,7 +149,7 @@ Tabela 2 — Estatísticas de gaps para encadeamento e função mod.
 
 6.6 Uso de Memória (Bônus)
 
-![img.png](img.png)
+![img.png](img7.png)
 
 Figura 7 — Consumo de memória durante inserção para encadeamento.
 
